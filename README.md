@@ -15,6 +15,14 @@ The analysis covers:
 * Refund activity
 * Device and landing-page analysis
 
+## Key Insights
+
+* Identified the highest-revenue product categories
+* Compared conversion rates across device types
+* Evaluated product profitability using gross margin
+* Analyzed refund behavior to identify underperforming products
+* Examined landing-page performance and website conversion
+
 ## Data Model
 
 The database contains related datasets covering:
