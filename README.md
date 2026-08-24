@@ -4,15 +4,6 @@ A comprehensive data analytics project analyzing multi-year transactional ecomme
 
 ---
 
-## 🎯 Executive Summary & Key KPIs
-
-* **Total Revenue:** $1.94M across 32K+ total orders
-* **Gross Profit:** $1.22M with an Average Order Value (AOV) of $59.99
-* **Product Driver:** *The Original Mr. Fuzzy* represents the majority of total sales ($1.21M revenue)
-* **Traffic Insights:** Desktop traffic yields significantly higher overall conversion rates compared to mobile devices
-
----
-
 ## 🛠️ Project Architecture & Data Model
 
 The data model connects relational datasets spanning product catalogs, order items, refunds, website sessions, and granular pageviews.
